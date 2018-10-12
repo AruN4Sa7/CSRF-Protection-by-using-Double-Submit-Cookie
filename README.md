@@ -1,0 +1,2 @@
+# CSRF-Protection-by-using-Double-Submit-Cookie
+This pattern is a more lightweight implementation of CSRF-protection. While relatively new and generally considered somewhat untested (it’s just as effective as the Synchronizer Token Pattern in my opinion; the arguments against it are weak at best), it achieves protection while avoiding the use of state. The implementation of this pattern, like the Synchronizer Token Pattern, produces design and security consequences
